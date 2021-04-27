@@ -1,6 +1,6 @@
-# Howie Hao Wang Portfolio
+# Howie Portfolio
 This is Howie's portfolio. 
 
-# Resource
-## Self-teach online: HTML CSS JS
+[JavaScript Projects](https://github.com/HowieWork/JavaScript-web-projects)
+
 
