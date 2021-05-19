@@ -1,7 +1,5 @@
-# Howie Portfolio
-This is Howie's portfolio. 
-
+# Howie - An aspiring full-stack web developer
+## PROJECTS
 [JavaScript Projects](https://github.com/HowieWork/JavaScript-web-projects)
-
-Current focus:
+## CURRENT FOCUS
 Reading [Eloquent JavaScript](https://github.com/HowieWork/learn-eloquent-js)
