@@ -1,4 +1,4 @@
-# Howie - An aspiring full-stack web developer
+# Howie - an aspiring full-stack web developer
 ## PROJECTS
 [JavaScript Projects](https://github.com/HowieWork/JavaScript-web-projects)
 ## CURRENT FOCUS
