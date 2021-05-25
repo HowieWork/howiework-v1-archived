@@ -1,6 +1,7 @@
 # Howie - an aspiring full-stack web developer
 ## PROJECTS
-[JavaScript Projects](https://github.com/HowieWork/JavaScript-web-projects)
+[Mapty](https://howiework.github.io/Mapty/)
+
 ## CURRENT FOCUS
 Reading [Eloquent JavaScript](https://github.com/HowieWork/learn-eloquent-js)
 
