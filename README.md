@@ -2,6 +2,8 @@
 ## PROJECTS
 **Mapty** [Demo](https://howiework.github.io/Mapty/) | [GitHub](https://github.com/HowieWork/Mapty)
 
+**Guess My Number** [Demo](https://howiework.github.io/Guess-my-number/) | [GitHub](https://github.com/HowieWork/Guess-my-number)
+
 ## CURRENT FOCUS
 Reading [Eloquent JavaScript](https://github.com/HowieWork/learn-eloquent-js)
 
