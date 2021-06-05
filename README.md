@@ -1,5 +1,7 @@
 # Howie - an aspiring full-stack web developer
 ## PROJECTS
+**Modal** [Demo](https://howiework.github.io/Modal/) | [GitHub](https://github.com/HowieWork/Modal)
+
 **Mapty** [Demo](https://howiework.github.io/Mapty/) | [GitHub](https://github.com/HowieWork/Mapty)
 
 **Guess My Number** [Demo](https://howiework.github.io/Guess-my-number/) | [GitHub](https://github.com/HowieWork/Guess-my-number)
