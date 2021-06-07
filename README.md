@@ -6,6 +6,8 @@
 
 **Guess My Number** [Demo](https://howiework.github.io/Guess-my-number/) | [GitHub](https://github.com/HowieWork/Guess-my-number)
 
+**Pig Game** [Demo](https://howiework.github.io/Pig-game/) | [GitHub](https://github.com/HowieWork/Pig-game)
+
 ## CURRENT FOCUS
 Reading [Eloquent JavaScript](https://github.com/HowieWork/learn-eloquent-js)
 
