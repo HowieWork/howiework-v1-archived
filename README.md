@@ -17,7 +17,7 @@
 
 [The Complete JavaScript Course 2021: From Zero to Expert!](https://github.com/HowieWork/complete-javascript-with-jonas)
 
-[Master the Coding Interview: Data Structures + Algorithms](https://github.com/HowieWork/FIXME)
+[Master the Coding Interview: Data Structures + Algorithms](https://github.com/HowieWork/master-the-coding-interview-ZTM)
 
 ## PORTFOLIO
 Click [here](https://howiework.com/) to visit my online portfolio.
