@@ -13,6 +13,8 @@
 
 [Eloquent JavaScript](https://github.com/HowieWork/learn-eloquent-js)
 
+[A Common-Sense Guide to Data Structure and Algorithms](https://github.com/HowieWork/a-common-sense-guide-to-data-structure-and-algorithms)
+
 ### Learning 
 
 [The Complete JavaScript Course 2021: From Zero to Expert!](https://github.com/HowieWork/complete-javascript-with-jonas)
