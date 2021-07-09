@@ -2,6 +2,8 @@
 ## PROJECTS
 **Modal** [Demo](https://howiework.github.io/Modal/) | [GitHub](https://github.com/HowieWork/Modal)
 
+**Forkify** [Demo](https://howiework.github.io/Forkify/) | [GitHub](https://forkify-howie.netlify.app)
+
 **Mapty** [Demo](https://howiework.github.io/Mapty/) | [GitHub](https://github.com/HowieWork/Mapty)
 
 **Guess My Number** [Demo](https://howiework.github.io/Guess-my-number/) | [GitHub](https://github.com/HowieWork/Guess-my-number)
