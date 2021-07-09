@@ -2,7 +2,7 @@
 ## PROJECTS
 **Modal** [Demo](https://howiework.github.io/Modal/) | [GitHub](https://github.com/HowieWork/Modal)
 
-**Forkify** [Demo](https://howiework.github.io/Forkify/) | [GitHub](https://forkify-howie.netlify.app)
+**Forkify** [Demo](https://forkify-howie.netlify.app/) | [GitHub](https://github.com/HowieWork/Forkify)
 
 **Mapty** [Demo](https://howiework.github.io/Mapty/) | [GitHub](https://github.com/HowieWork/Mapty)
 
