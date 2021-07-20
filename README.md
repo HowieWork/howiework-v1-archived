@@ -6,6 +6,10 @@
 
 **Mapty** [Demo](https://howiework.github.io/Mapty/) | [GitHub](https://github.com/HowieWork/Mapty)
 
+**Bankist** [Demo](https://howiework.github.io/Bankist/) | [GitHub](https://github.com/HowieWork/Bankist)
+
+**Bankist Homepage** [Demo](https://howiework.github.io/Bankist-homepage/) | [GitHub](https://github.com/HowieWork/Bankist-homepage)
+
 **Guess My Number** [Demo](https://howiework.github.io/Guess-my-number/) | [GitHub](https://github.com/HowieWork/Guess-my-number)
 
 **Pig Game** [Demo](https://howiework.github.io/Pig-game/) | [GitHub](https://github.com/HowieWork/Pig-game)
