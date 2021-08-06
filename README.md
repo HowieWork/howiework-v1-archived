@@ -1,5 +1,12 @@
 # Howie - an aspiring full-stack web developer
 ## PROJECTS
+
+### React
+
+**Monsters Rolodex** [Demo](https://howiework.github.io/monsters-rolodex/) | [GitHub](https://github.com/HowieWork/monsters-rolodex)
+
+### JavaScript
+
 **Modal** [Demo](https://howiework.github.io/Modal/) | [GitHub](https://github.com/HowieWork/Modal)
 
 **Forkify** [Demo](https://forkify-howie.netlify.app/) | [GitHub](https://github.com/HowieWork/Forkify)
@@ -23,9 +30,11 @@
 
 ### Learning 
 
-[Build Responsive Real-World Websites with HTML and CSS](https://github.com/HowieWork/html-css-with-jonas)
+:white_check_mark: &nbsp; [Build Responsive Real-World Websites with HTML and CSS](https://github.com/HowieWork/html-css-with-jonas)
 
-[The Complete JavaScript Course 2021: From Zero to Expert!](https://github.com/HowieWork/complete-javascript-with-jonas)
+:white_check_mark: &nbsp; [The Complete JavaScript Course 2021: From Zero to Expert!](https://github.com/HowieWork/complete-javascript-with-jonas)
+
+[Complete React Developer in 2021](https://www.udemy.com/share/101WH42@Pm5gV2FKS1AOdEFBA3pxfT5uY30=/)
 
 [Master the Coding Interview: Data Structures + Algorithms](https://github.com/HowieWork/master-the-coding-interview-ZTM)
 
