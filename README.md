@@ -7,19 +7,19 @@
 
 ### JavaScript
 
-**Modal** [Demo](https://howiework.github.io/Modal/) | [GitHub](https://github.com/HowieWork/Modal)
+**Modal** [Demo](https://howiework.github.io/modal/) | [GitHub](https://github.com/HowieWork/modal)
 
-**Forkify** [Demo](https://forkify-howie.netlify.app/) | [GitHub](https://github.com/HowieWork/Forkify)
+**Forkify** [Demo](https://forkify-howie.netlify.app/) | [GitHub](https://github.com/HowieWork/forkify)
 
-**Mapty** [Demo](https://howiework.github.io/Mapty/) | [GitHub](https://github.com/HowieWork/Mapty)
+**Mapty** [Demo](https://howiework.github.io/mapty/) | [GitHub](https://github.com/HowieWork/mapty)
 
-**Bankist** [Demo](https://howiework.github.io/Bankist/) | [GitHub](https://github.com/HowieWork/Bankist)
+**Bankist** [Demo](https://howiework.github.io/bankist/) | [GitHub](https://github.com/HowieWork/bankist)
 
-**Bankist Homepage** [Demo](https://howiework.github.io/Bankist-homepage/) | [GitHub](https://github.com/HowieWork/Bankist-homepage)
+**Bankist Homepage** [Demo](https://howiework.github.io/bankist-homepage/) | [GitHub](https://github.com/HowieWork/bankist-homepage)
 
-**Guess My Number** [Demo](https://howiework.github.io/Guess-my-number/) | [GitHub](https://github.com/HowieWork/Guess-my-number)
+**Guess My Number** [Demo](https://howiework.github.io/guess-my-number/) | [GitHub](https://github.com/HowieWork/guess-my-number)
 
-**Pig Game** [Demo](https://howiework.github.io/Pig-game/) | [GitHub](https://github.com/HowieWork/Pig-game)
+**Pig Game** [Demo](https://howiework.github.io/pig-game/) | [GitHub](https://github.com/HowieWork/pig-game)
 
 ## CURRENT FOCUS
 ### Reading 
