@@ -1,4 +1,7 @@
 # Howie - an aspiring full-stack web developer
+
+## TESTING
+
 ## PROJECTS
 
 ### React
@@ -22,13 +25,14 @@
 **Pig Game** [Demo](https://howiework.github.io/pig-game/) | [GitHub](https://github.com/HowieWork/pig-game)
 
 ## CURRENT FOCUS
-### Reading 
+
+### Reading
 
 [Eloquent JavaScript](https://github.com/HowieWork/learn-eloquent-js)
 
 [A Common-Sense Guide to Data Structure and Algorithms](https://github.com/HowieWork/a-common-sense-guide-to-data-structure-and-algorithms)
 
-### Learning 
+### Learning
 
 :white_check_mark: &nbsp; [Build Responsive Real-World Websites with HTML and CSS](https://github.com/HowieWork/html-css-with-jonas)
 
@@ -39,4 +43,5 @@
 [Master the Coding Interview: Data Structures + Algorithms](https://github.com/HowieWork/master-the-coding-interview-ZTM)
 
 ## PORTFOLIO
+
 Click [here](https://howiework.com/) to visit my online portfolio.
