@@ -1,7 +1,5 @@
 # Howie - an aspiring full-stack web developer
 
-## TESTING
-
 ## PROJECTS
 
 ### React
