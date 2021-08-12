@@ -36,6 +36,8 @@
 
 :white_check_mark: &nbsp; [The Complete JavaScript Course 2021: From Zero to Expert!](https://github.com/HowieWork/complete-javascript-with-jonas)
 
+[Advanced CSS and Sass](https://github.com/HowieWork/advanced-css-and-sass-with-jonas)
+
 [React - The Complete Guide](https://www.udemy.com/share/101Wby2@PUdKV1pfSlIJcEdKBGJNfQ==/)
 
 [Master the Coding Interview: Data Structures + Algorithms](https://github.com/HowieWork/master-the-coding-interview-ZTM)
