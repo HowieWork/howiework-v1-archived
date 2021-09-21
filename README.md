@@ -2,6 +2,10 @@
 
 ## PROJECTS
 
+### Node.js
+
+**Natours** [Demo](https://howiework.github.io/monsters-rolodex/) | [GitHub](https://natours-howie.herokuapp.com/)
+
 ### React
 
 **Monsters Rolodex** [Demo](https://howiework.github.io/monsters-rolodex/) | [GitHub](https://github.com/HowieWork/monsters-rolodex)
@@ -35,6 +39,8 @@
 :white_check_mark: &nbsp; [Build Responsive Real-World Websites with HTML and CSS](https://github.com/HowieWork/html-css-with-jonas)
 
 :white_check_mark: &nbsp; [The Complete JavaScript Course 2021: From Zero to Expert!](https://github.com/HowieWork/complete-javascript-with-jonas)
+
+:white_check_mark: &nbsp; [Node.js, Express, MongoDB & More: The Complete Bootcamp 2021](https://www.udemy.com/share/101Wv63@QSBCxqPMxSCLneQzW69-mFlKnI_ZDdDw8GgLiUOqm5A2eR2vrTGFMnKZVgoahHo_hQ==/)
 
 [Advanced CSS and Sass](https://github.com/HowieWork/advanced-css-and-sass-with-jonas)
 
