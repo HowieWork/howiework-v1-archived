@@ -4,7 +4,7 @@
 
 ### Node.js
 
-**Natours** [Demo](https://howiework.github.io/monsters-rolodex/) | [GitHub](https://natours-howie.herokuapp.com/)
+**Natours** [Demo](https://natours-howie.herokuapp.com/) | [GitHub](https://github.com/HowieWork/natours)
 
 ### React
 
