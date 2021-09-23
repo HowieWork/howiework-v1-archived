@@ -44,7 +44,7 @@
 
 [Advanced CSS and Sass](https://github.com/HowieWork/advanced-css-and-sass-with-jonas)
 
-[React - The Complete Guide](https://www.udemy.com/share/101Wby2@PUdKV1pfSlIJcEdKBGJNfQ==/)
+[React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/share/101Wby3@nykl8OkOA1uKoB8KTA1dHa9wDJVEBfl48E1CG_A_ztHZt2M5bYOe9adGsFMcalX_6g==/)
 
 [Master the Coding Interview: Data Structures + Algorithms](https://github.com/HowieWork/master-the-coding-interview-ZTM)
 
