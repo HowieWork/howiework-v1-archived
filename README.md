@@ -48,6 +48,6 @@
 
 [Master the Coding Interview: Data Structures + Algorithms](https://github.com/HowieWork/master-the-coding-interview-ZTM)
 
-## PORTFOLIO
+## PORTFOLIO (Redesign phase)
 
 Click [here](https://howiework.com/) to visit my online portfolio.
